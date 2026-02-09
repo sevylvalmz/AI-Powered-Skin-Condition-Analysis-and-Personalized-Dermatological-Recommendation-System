@@ -1,0 +1,10 @@
+{
+  "login": "Giriş Yap",
+  "register": "Kayıt Ol",
+  "email": "E-posta",
+  "password": "Şifre",
+  "forgot_password": "Şifremi Unuttum?",
+  "dont_have_account": "Hesabınız yok mu?",
+  "app_title": "Cilt Analizi",
+  "app_subtitle": "Kişiselleştirilmiş cilt bakımı çözümleri"
+}

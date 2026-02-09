@@ -1,0 +1,10 @@
+{
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot Password?",
+    "dont_have_account": "Don't have an account?",
+    "app_title": "Skin Analysis",
+    "app_subtitle": "Personalized skin care solutions"
+}
