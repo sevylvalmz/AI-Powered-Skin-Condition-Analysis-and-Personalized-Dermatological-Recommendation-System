@@ -28,11 +28,13 @@ class MyApp extends StatelessWidget {
       locale: context.locale,
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        scaffoldBackgroundColor: Colors.white,
-        primaryColor: const Color(0xFFEC407A),
+        scaffoldBackgroundColor: const Color(0xFFFFF5F8),
+        primaryColor: const Color(0xFFF8BBD0),
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFFEC407A),
-          primary: const Color(0xFFEC407A),
+          seedColor: const Color(0xFFF8BBD0),
+          primary: const Color(0xFFF8BBD0),
+          secondary: const Color(0xFFF48FB1),
+          surface: Colors.white,
         ),
         useMaterial3: true,
       ),

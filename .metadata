@@ -15,10 +15,7 @@ migration:
     - platform: root
       create_revision: 67323de285b00232883f53b84095eb72be97d35c
       base_revision: 67323de285b00232883f53b84095eb72be97d35c
-    - platform: web
-      create_revision: 67323de285b00232883f53b84095eb72be97d35c
-      base_revision: 67323de285b00232883f53b84095eb72be97d35c
-    - platform: windows
+    - platform: android
       create_revision: 67323de285b00232883f53b84095eb72be97d35c
       base_revision: 67323de285b00232883f53b84095eb72be97d35c
 
@@ -27,7 +24,7 @@ migration:
   # List of Local paths (relative to this file) that should be
   # ignored by the migrate tool.
   #
-  # Files that are not part of the templates will be ignored by default.
+  # Files tmmmmmmmmmmmmmmmmmmmmmjjjjjjjjjjjjjjjjjjjjjjjj jjjjjjjjjjjjjjjjjjjjkkkkkjjjjjjjjkjjkjuurrrhat are not part of the templates will be ignored by default.
   unmanaged_files:
     - 'lib/main.dart'
     - 'ios/Runner.xcodeproj/project.pbxproj'

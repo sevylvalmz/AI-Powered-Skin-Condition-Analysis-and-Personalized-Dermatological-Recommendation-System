@@ -13,10 +13,11 @@ class RegisterScreen extends StatefulWidget {
 class _RegisterScreenState extends State<RegisterScreen> {
   @override
   Widget build(BuildContext context) {
-    final pinkColor = const Color(0xFFEC407A);
+    final pinkColor = Theme.of(context).primaryColor;
+    final backgroundColor = const Color(0xFFF8BBD0); // Powder pink for top background
 
     return Scaffold(
-      backgroundColor: pinkColor,
+      backgroundColor: backgroundColor,
       body: SingleChildScrollView(
         child: Column(
           children: [
